@@ -1,0 +1,49 @@
+
+1. Visit the Url - Konga.com.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message on the page that the right page was visited.
+2. Sign in to Konga Successfully.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+                   - positive signin tests, write if tests to show this, pass/fail sequence.
+                   - negative signin tests - 2. Write if tests to show this, pass/fail sequence. (later things, part 2)
+                   - try the clear field command to see how it works. check google.
+3. From the Categories, click on the "Computer & Accessories".
+Possible testcases - see how to consider testcases for wrong category selection, could be by confirming the right url/page was selected.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+4. Click on the Laptop subcategory.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+5. Click on the Apple Macbooks.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+6. Add an item to the cart.
+Possible testcases - Confirm we are on the cart url, i.e., the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+                   - confirm only 1 item is added to the cart.
+7. Select Address.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+                   - positive address field input tests, write if tests to show this, pass/fail sequence.
+                   - negative address field input tests - 2. Write if tests to show this, pass/fail sequence. (later things, part 2)
+                   - try the clear field command to see how it works. check google.
+8. Continue to Make Payment.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+                   - check webpage for other possible tests.
+9. Input invalid card details.
+Possible testcases - confirm the right url is visited, put up a pass/fail sequence.
+                   - write a test to show a message/text on the webpage to show that the right page was visited.
+                   - negative card details test, write if tests to show this, pass/fail sequence
+                   - check webpage for other possible tests.
+10. Print out the error message: Invalid Card number.
+Possible testcases - write a test to show a message/text on the webpage to show that the right page was visited - if possible.
+                   - write a test to print out the message from the webpage on the console - system.out.println...
+                   - check webpage for other possible tests.
+11. Close the iFrame that displays the input card modal.
+Possible testcases - write a test to show a message/text on the webpage to show that the modal was closed.
+                       - indicate print messages to show the above was done.
+                   - check webpage for other possible tests.
+12. Quit the browser.
+
+
