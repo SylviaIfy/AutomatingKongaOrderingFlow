@@ -87,10 +87,10 @@ public class KongaTests {
         Thread.sleep(2000);
 //Flow 2b. Input your Username on the Email address / phone number field
         driver.findElement(By.id("username")).clear();
-        driver.findElement(By.id("username")).sendKeys("ifysylviaif@yahoo.com");
+        driver.findElement(By.id("username")).sendKeys("");
 //Flow 2c. Locate the Password field and input your Password on the password field
         driver.findElement(By.id("password")).clear();
-        driver.findElement(By.id("password")).sendKeys("nigeria1960");
+        driver.findElement(By.id("password")).sendKeys("");
 //Flow 2d. Click on the Login/Signin button
         driver.findElement(By.xpath("//*[@id=\"app-content-wrapper\"]/div[4]/section/section/aside/div[2]/div/form/div[3]/button")).click();
         Thread.sleep(10000);
